@@ -1,0 +1,8 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=1371
+
+Place the cursor over the word you want to mark and press the TextMarker button in the toolbar or place the mouse cursor over the word you want to mark and use the right mouse button menue or place the mouse cursor over the word you want to mark and press the middle (wheel) mouse button. Using the middle mouse button will colorize the words in different colors for each mouse click.
+
+It is also possible to remove the color markers using the same methode.
+
+Here you can see a screenshot:
+http://home.arcor.de/andreas.thoelke/Vim/Vim/screenshot.png
